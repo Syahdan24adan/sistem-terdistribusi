@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../PythonLinux"
+		},
+		{
+			"path": "../../../../C++Linux"
+		},
+		{
+			"path": "../../../../PhpLinux"
+		}
+	],
+	"settings": {}
+}
